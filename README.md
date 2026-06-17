@@ -1,3 +1,3 @@
 # Demo
 
-try to wrute my repo in git
+try to write my first repo in git
